@@ -20,7 +20,7 @@ dotnet dev-certs https --trust
 #Certs Location
 C:\Users\<user_name>\.aspnet\https
 
-#Add <userSecretsId> to csproj file.
+#Add "<userSecretsId>" to csproj file.
 
 #Add kestrel certs to projects
 dotnet user-secrets set "kestrel:Certificates:Development:Password" "Srishti@2019"
