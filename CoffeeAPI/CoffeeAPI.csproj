@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>Coffee-API-f0de8281-debd-4bb1-8340-3944aa0f9496</UserSecretsId>
+  </PropertyGroup>
+
+
+</Project>

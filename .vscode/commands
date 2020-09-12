@@ -1,11 +1,4 @@
-# Envoy_ApiGateway_dotnetcore3.1
-
-.
-
-#dotnet core project created with envoy API gateway
-
-
-#create dotnet project
+#Create new project 
 dotnet new webapi -n CoffeeAPI
 
 #Run the project
