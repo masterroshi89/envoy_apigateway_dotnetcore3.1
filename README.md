@@ -37,7 +37,7 @@ docker run -p 9901:9901 -p 10000:10000 envoygateway
 
 #from WSL
 explorer.exe .
-Copy the htts config file
+Copy the https config file
 
 #execute the command
 openssl req -config https.config -new -out csr.pem
